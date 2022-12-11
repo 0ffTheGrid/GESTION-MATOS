@@ -1,7 +1,7 @@
 # GESTION-MATOS
  Gestion de materiels
- GestionMatos est un logiciel qui permet de gérer l'activité les interventions, et ce par la gestion
+ GestionMatos est un logiciel qui permet de gérer 
 
-    Du matériel
-    De ses clients
-    Des interventions prévu
+    son matériel
+    ses clients
+    et des interventions prévu
